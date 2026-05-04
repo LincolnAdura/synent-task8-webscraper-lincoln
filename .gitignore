@@ -1,0 +1,3 @@
+# Ignore scraped data files
+scraped_quotes.json
+scraped_quotes.csv
